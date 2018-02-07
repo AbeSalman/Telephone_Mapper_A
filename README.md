@@ -1,0 +1,2 @@
+# Telephone_Mapper_A
+Telephone_Mapper - a basic application that          prompts users to enter Prompt the user to enter the name of the dictionary          file to use (a text file), Read all words from the file, store all 3-letter          words from the file into w3[], store all 4-letter words from the file into w4[],          Write w3[] into a file called shorts3, Write w4[] into a file called shorts4
